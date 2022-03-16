@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="GRC Testsuite" data-provider-thread-count="2">
+       <parameter name="browserName" value="Chrome" />
+       <parameter name="environment" value="qa" />
+       <test name="Tests">
+             <classes>
+                    <class name="com.qt.testrunners.BaseRunner"></class>           
+             </classes>
+       </test>
+</suite>

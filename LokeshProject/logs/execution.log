@@ -1,0 +1,211 @@
+2022-03-16 14:18:08 INFO  qt.testrunners.BaseRunner:41 - Existing Report Cleared
+2022-03-16 14:18:08 ERROR qt.utilities.ConfigHelper:59 - inStream parameter is null
+2022-03-16 14:18:08 INFO  qt.testrunners.BaseRunner:45 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 14:27:50 INFO  qt.testrunners.BaseRunner:41 - Existing Report Cleared
+2022-03-16 14:27:50 ERROR qt.utilities.ConfigHelper:56 - inStream parameter is null
+2022-03-16 14:27:50 INFO  qt.testrunners.BaseRunner:45 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 14:28:58 INFO  qt.testrunners.BaseRunner:41 - Existing Report Cleared
+2022-03-16 14:28:58 INFO  qt.testrunners.BaseRunner:45 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 15:01:34 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 15:01:34 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 15:01:56 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 15:01:56 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 15:03:02 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 15:03:02 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 15:03:04 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 15:03:05 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 15:03:08 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 15:03:08 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 15:13:23 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 15:13:23 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 15:13:25 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 15:13:25 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 15:13:28 INFO  qt.steps.QualitestSteps:15 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 15:13:28 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 15:13:28 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 15:15:44 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 15:15:44 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 15:15:46 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 15:15:46 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 15:15:48 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 15:15:48 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 16:11:21 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:11:21 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:11:24 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:11:24 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:11:26 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:11:26 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 16:11:27 INFO  qt.pages.WishlistPage:31 - FAIL: All the four products are not displayed in 'My Wishlist' table
+2022-03-16 16:11:27 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 16:11:28 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 16:11:28 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 16:13:57 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:13:57 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:13:59 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:13:59 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:14:00 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:14:14 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 16:14:15 INFO  qt.pages.WishlistPage:31 - FAIL: All the four products are not displayed in 'My Wishlist' table
+2022-03-16 16:14:15 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 16:14:15 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 16:14:15 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 16:14:33 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:14:33 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:14:34 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:14:35 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:14:36 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:14:59 INFO  qt.pages.WishlistPage:31 - FAIL: All the four products are not displayed in 'My Wishlist' table
+2022-03-16 16:14:59 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 16:14:59 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 16:14:59 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 16:30:56 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:30:56 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:30:58 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:30:58 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:30:59 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:32:07 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:32:07 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:32:08 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:32:09 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:32:10 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:33:51 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:33:51 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:33:52 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:33:52 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:33:54 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:45:58 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:45:58 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:46:00 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:46:00 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:46:02 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:46:16 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 16:46:16 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 16:46:17 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 16:46:17 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 16:46:54 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:46:54 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:46:56 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:46:56 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add four different products to wish list: Started *************
+2022-03-16 16:46:58 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:47:05 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 16:47:06 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 16:47:06 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 16:47:06 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 16:58:32 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 16:58:32 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 16:58:33 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 16:58:34 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 16:58:37 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 16:58:44 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 16:58:45 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 16:58:45 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 16:59:02 INFO  qt.pages.WishlistPage:47 - £22.00
+2022-03-16 16:59:02 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 16:59:02 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 17:17:54 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 17:17:54 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 17:17:56 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 17:17:56 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 17:17:59 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 17:18:07 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 17:18:07 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 17:18:08 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 17:18:17 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 17:18:17 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 17:20:24 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 17:20:24 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 17:20:26 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 17:20:26 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 17:20:28 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 17:20:35 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 17:20:36 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 17:20:36 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 17:20:41 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 17:20:41 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 17:26:55 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 17:26:55 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 17:26:58 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 17:26:58 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 17:26:59 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 17:27:07 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 17:27:07 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 17:27:08 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 17:27:16 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 17:27:16 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 17:28:54 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 17:28:54 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 17:28:56 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 17:28:56 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 17:28:58 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 17:29:05 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 17:29:06 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 17:29:06 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 17:29:11 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 17:29:11 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 17:31:13 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 17:31:13 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 17:31:14 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 17:31:15 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 17:31:16 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 17:31:24 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 17:31:24 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 17:31:24 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 17:44:08 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 17:44:08 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 17:44:09 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 17:44:10 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 17:44:15 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 17:44:15 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 17:44:17 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 17:44:17 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 17:44:19 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 17:44:26 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 17:44:27 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 17:44:27 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 18:07:54 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 18:07:54 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 18:07:56 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 18:07:56 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 18:07:59 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 18:08:07 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 18:08:07 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 18:08:07 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 18:08:07 INFO  qt.steps.Hooks:47 - Lowest Price item added to 'My Cart' successfully
+Min value of product: 20.0
+2022-03-16 18:08:24 INFO  qt.steps.Hooks:47 - Cart Product details.
+Product Name: Single Shirt
+ Product Price: £20.00
+2022-03-16 18:08:24 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 18:08:25 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 18:08:25 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+
+2022-03-16 18:09:01 INFO  qt.testrunners.BaseRunner:39 - Existing Report Cleared
+2022-03-16 18:09:01 INFO  qt.testrunners.BaseRunner:43 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-03-16 18:09:02 INFO  qt.base.BrowserFactory:37 - Driver Instance Created
+2022-03-16 18:09:03 INFO  qt.steps.Hooks:25 - ************* Scenario: 1. Add lowest price product to My Cart: Started *************
+2022-03-16 18:09:04 INFO  qt.steps.Hooks:47 - Url open successfully: https://testscriptdemo.com/
+2022-03-16 18:09:12 INFO  qt.steps.Hooks:47 - Four different products added to wishlist successfully
+2022-03-16 18:09:12 INFO  qt.steps.Hooks:47 - All the four products are displayed in 'My Wishlist' table
+2022-03-16 18:09:12 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 18:09:12 INFO  qt.steps.Hooks:47 - Lowest Price item added to 'My Cart' successfully
+Min value of product: 20.0
+2022-03-16 18:09:17 INFO  qt.steps.Hooks:47 - Cart Product details.
+Product Name: Single Shirt
+ Product Price: £20.00
+2022-03-16 18:09:17 INFO  qt.steps.Hooks:43 - Screen captured and added to report...
+2022-03-16 18:09:18 INFO  qt.steps.Hooks:35 - Browser Closed
+2022-03-16 18:09:18 INFO  qt.steps.Hooks:36 - __________________________________________________________________________________________
+

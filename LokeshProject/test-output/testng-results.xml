@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-16T17:28:54 GMT" name="GRC Testsuite" finished-at="2022-03-16T17:29:12 GMT" duration-ms="17243">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qt.testrunners.BaseRunner@75e01201]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-03-16T17:28:54 GMT" name="Tests" finished-at="2022-03-16T17:29:12 GMT" duration-ms="17243">
+      <class name="com.qt.testrunners.BaseRunner">
+        <test-method is-config="true" signature="setEnvDetails(java.lang.String,java.lang.String)[pri:0, instance:com.qt.testrunners.BaseRunner@75e01201]" started-at="2022-03-16T17:28:54 GMT" name="setEnvDetails" finished-at="2022-03-16T17:28:54 GMT" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnvDetails -->
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.qt.testrunners.BaseRunner@75e01201]" started-at="2022-03-16T17:28:54 GMT" name="setUpClass" finished-at="2022-03-16T17:28:55 GMT" duration-ms="295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qt.testrunners.BaseRunner@75e01201]" started-at="2022-03-16T17:28:55 GMT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-16T17:29:11 GMT" duration-ms="16564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["1. Add lowest price product to My Cart"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Qualitest code]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.qt.testrunners.BaseRunner@75e01201]" started-at="2022-03-16T17:29:11 GMT" name="tearDownClass" finished-at="2022-03-16T17:29:12 GMT" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.qt.testrunners.BaseRunner -->
+    </test> <!-- Tests -->
+  </suite> <!-- GRC Testsuite -->
+</testng-results>
